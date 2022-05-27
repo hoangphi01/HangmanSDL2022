@@ -1,0 +1,9 @@
+﻿  SDL_button.cpp
+C:\Users\HOANGPHI-X270\source\repos\SDLgame\SDL_common.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\HOANGPHI-X270\source\repos\SDLgame\SDL_common.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HOANGPHI-X270\source\repos\SDLgame\SDL_texture.h(30,2): warning C4091: 'extern ': ignored on left of 'Texture' when no variable is declared
+C:\Users\HOANGPHI-X270\source\repos\SDLgame\main.cpp(485,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HOANGPHI-X270\source\repos\SDLgame\main.cpp(470,9): warning C4101: 'highscore': unreferenced local variable
+  Generating Code...
+  SDLgame.vcxproj -> C:\Users\HOANGPHI-X270\source\repos\SDLgame\x64\Debug\SDLgame.exe
